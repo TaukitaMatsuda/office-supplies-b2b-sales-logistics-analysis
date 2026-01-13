@@ -37,22 +37,7 @@
    Вторые приоритеты: Нью-Йорк → Техас.
 
 **Стек**  
-SQL (PostgreSQL / BigQuery-style) · Python (pandas, matplotlib/seaborn/plotly) · Excel / Google Sheets · Визуализация в Metabase / Tableau · RFM-анализ, cohort-анализ, воронка продаж
-
-**Запуск проекта локально**
-
-```bash
-# Клонируем репозиторий
-git clone https://github.com/your-username/pens-and-pencils-analysis.git
-cd pens-and-pencils-analysis
-
-# Устанавливаем зависимости (если используешь Python-часть)
-pip install -r requirements.txt
-
-# Основной анализ (SQL + визуализация)
-jupyter notebook notebooks/main_analysis.ipynb
-# или смотрим готовые SQL-запросы в sql/
-```
+SQL (PostgreSQL / BigQuery-style) · Excel / Google Sheets · Визуализация в Metabase · 
 
 **Полезные артефакты**
 
