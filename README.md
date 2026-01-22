@@ -43,11 +43,21 @@
 SQL (PostgreSQL / BigQuery-style) · Excel / Google Sheets · Визуализация в Metabase · 
 
 **Полезные артефакты**
-
-- 📊 [Полная презентация в PDF](./Анализ%20логистики%20магазина%20канцтоваров.pdf)
-- 📄 [Notion-кейс с детальным разбором](ссылка на твою страницу в Notion)
-- 📁 [Исходные SQL-запросы](./analysis.md) — подробный разбор анализа и SQL-запросы
-- 📁 [Визуализации и графики](./images)
+<p align="center">
+  <a href="./Анализ%20логистики%20магазина%20канцтоваров.pdf">
+    <img src="https://img.shields.io/badge/BuildIn AI-кейс с детальным разбором-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Ссылка BuildIn AI">
+  </a>
+</p>
+<p align="center">
+  <a href="./analysis.md">
+    <img src="https://img.shields.io/badge/Исходные SQL-запросы-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Читать">
+  </a>
+</p>
+<p align="center">
+  <a href="./images">
+    <img src="https://img.shields.io/badge/Визуализации и графики-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Смотреть">
+  </a>
+</p>
 <p align="center">
   <a href="./Анализ%20логистики%20магазина%20канцтоваров.pdf">
     <img src="https://img.shields.io/badge/Скачать_презентацию-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Скачать PDF">
