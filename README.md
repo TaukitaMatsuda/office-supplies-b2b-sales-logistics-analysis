@@ -43,22 +43,22 @@
 SQL (PostgreSQL / BigQuery-style) · Excel / Google Sheets · Визуализация в Metabase · 
 
 **Полезные артефакты**
-<p align="center">
+<p align="left">
   <a href="./Анализ%20логистики%20магазина%20канцтоваров.pdf">
     <img src="https://img.shields.io/badge/BuildIn AI-кейс с детальным разбором-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Ссылка BuildIn AI">
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="./analysis.md">
     <img src="https://img.shields.io/badge/Исходные SQL-запросы-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Читать">
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="./images">
     <img src="https://img.shields.io/badge/Визуализации и графики-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Смотреть">
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="./Анализ%20логистики%20магазина%20канцтоваров.pdf">
     <img src="https://img.shields.io/badge/Скачать_презентацию-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Скачать PDF">
   </a>
